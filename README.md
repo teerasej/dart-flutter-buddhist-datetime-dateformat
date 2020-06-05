@@ -1,6 +1,8 @@
 # Buddhist Calendar DateTime and DateFormatter for Dart and Flutter
 
-[ภาษาไทยอ่านวิธีใช้ที่นี่นะครับ]()
+If this helps you out of problem, please give it a like in [pub.dev](https://pub.dev/packages/buddhist_datetime_dateformat) or [a star on github](https://github.com/teerasej/dart-flutter-buddhist-datetime-dateformat). :smile:
+
+[ภาษาไทยอ่านวิธีใช้ที่นี่นะครับ](/README_th.md)
 
 These are extension that you can get `DateTime` and `DateFormat` in Buddhist calendar's format. 
 
@@ -46,6 +48,13 @@ void main() {
 - You will found `.yearInBuddhistCalendar` property in `DateTime`'s instance. This will return converted year value into Buddhist era.
 - Also `.formatInBuddhistCalendarThai(datetime)` method in `DateFormat` which return correct format for Thai language if you pass DateTime's instance into it.
 
+```dart
+var now = DateTime.now();
+var onlyBuddhistYear = now.yearInBuddhistCalendar;
+
+var formatter = DateFormat.yMMMMEEEEd();
+var dateInBuddhistCalendarFormat = formatter.formatInBuddhistCalendarThai(now);
+```
 
 ## Open for contribution
 

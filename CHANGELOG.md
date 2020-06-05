@@ -1,3 +1,8 @@
+## [1.0.2] - 05/06/2020.
+
+* Add "How to use"
+* Add "How to use" in Thai
+
 ## [1.0.1] - 05/06/2020.
 
 * Formatted code
