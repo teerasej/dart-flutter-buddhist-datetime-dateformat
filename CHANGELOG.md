@@ -1,3 +1,7 @@
+## [1.0.6] - 05/06/2020.
+
+* fix link to Thai manual, finally
+
 ## [1.0.5] - 05/06/2020.
 
 * fix link to Thai manual
