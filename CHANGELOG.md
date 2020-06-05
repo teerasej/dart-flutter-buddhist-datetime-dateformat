@@ -1,3 +1,7 @@
+## [1.0.3] - 05/06/2020.
+
+* fix miscalculation in DateFormat
+
 ## [1.0.2] - 05/06/2020.
 
 * Add "How to use"
