@@ -2,7 +2,7 @@
 
 If this helps you out of problem, please give it a like in [pub.dev](https://pub.dev/packages/buddhist_datetime_dateformat) or [a star on github](https://github.com/teerasej/dart-flutter-buddhist-datetime-dateformat). :smile:
 
-[ภาษาไทยอ่านวิธีใช้ที่นี่นะครับ](/README_th.md)
+[ภาษาไทยอ่านวิธีใช้ที่นี่นะครับ](/[README_th.md](https://github.com/teerasej/dart-flutter-buddhist-datetime-dateformat/blob/master/README_th.md))
 
 ![2020-06-05_17-31-47](https://user-images.githubusercontent.com/85179/83866907-b8ee4000-a752-11ea-8c52-688490771f61.png)
 

@@ -1,3 +1,7 @@
+## [1.0.5] - 05/06/2020.
+
+* fix link to Thai manual
+
 ## [1.0.4] - 05/06/2020.
 
 * Add example photo in README.md
