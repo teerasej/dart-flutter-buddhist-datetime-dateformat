@@ -4,6 +4,10 @@
 
 [In English, click here](/README.md)
 
+![2020-06-05_17-25-40](https://user-images.githubusercontent.com/85179/83866915-bb509a00-a752-11ea-9b2e-f1a77cdf016d.png)
+
+
+
 นี่เป็น Library Package ภาษา Dart สำหรับเสริม method ที่จะทำให้ `DateTime` และ `DateFormat` คืนค่าออกมาเป็นปีพุทธศักราช และแสดงคำว่า **พ.ศ.** แทน **ค.ศ.** ครับ
 
 ทำออกมาให้สามารถใช้กับ DateTime และ DateFormat ทั่วไปได้ทันที 
