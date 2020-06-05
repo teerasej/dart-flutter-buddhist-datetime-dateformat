@@ -1,6 +1,6 @@
 name: buddhist_datetime_dateformat
 description: A dart package that help developer get DateTime's year in Buddhist calendar format, also support DateFormatter
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/teerasej
 
 environment:
