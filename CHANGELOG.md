@@ -1,3 +1,7 @@
+## [1.0.4] - 05/06/2020.
+
+* Add example photo in README.md
+
 ## [1.0.3] - 05/06/2020.
 
 * fix miscalculation in DateFormat
